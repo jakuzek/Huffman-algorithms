@@ -5,3 +5,5 @@ The Huffman Algorithms folder contains implementations of the Huffman compressio
 
   * Huffman Compression<br>
     *This code performs a compression operation on a given text file.*
+    
+Huffman decompression in the future...
